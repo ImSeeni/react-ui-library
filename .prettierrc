@@ -8,8 +8,9 @@
     "useTabs": false,
     "importOrder": [
         "react",
-        "<THIRD_PARTY_MODULES>",
         "^@mui",
+        "^@storybook",
+        "<THIRD_PARTY_MODULES>",
         "revedia-common",
         "^@/types",
         "^@/theme",
