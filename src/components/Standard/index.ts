@@ -1,2 +1,2 @@
-export { MyPageHeader } from "./MyPageHeader";
-export { MyPageSidebar } from "./MyPageSidebar";
+export * from "./MyPageHeader";
+export * from "./MyPageSidebar";

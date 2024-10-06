@@ -1,9 +1,9 @@
 /** @jsxImportSource @emotion/react */
 import { css } from "@emotion/react";
 
-import InterBold from "../fonts/Inter-Bold.ttf";
-import InterRegular from "../fonts/Inter-Regular.ttf";
-import InterSemiBold from "../fonts/Inter-SemiBold.ttf";
+import InterBold from "../../fonts/Inter-Bold.ttf";
+import InterRegular from "../../fonts/Inter-Regular.ttf";
+import InterSemiBold from "../../fonts/Inter-SemiBold.ttf";
 
 export default css`
     @font-face {

@@ -3,7 +3,7 @@ import React, { ReactNode } from "react";
 
 import { Theme, ThemeProvider } from "@mui/material";
 
-import { MY_THEME } from "../theme";
+import { MY_THEME } from "../../theme";
 import globalStyles from "./custom-font-styles";
 
 interface MyThemeProviderProps {
