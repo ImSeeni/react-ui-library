@@ -1,6 +1,5 @@
 // Components
-export * from "./components/Basic";
-export * from "./components/Standard";
+export * from "./components";
 
 // Providers
 export * from "./providers";
