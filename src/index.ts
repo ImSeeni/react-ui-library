@@ -1,6 +1,7 @@
+export * from "./components/Basic";
+
 // Components
 export {
-    MyAppBar,
     MyAvatar,
     MyBox,
     MyButton,

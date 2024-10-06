@@ -1,4 +1,4 @@
-export { MyAppBar } from "./MyAppBar";
+export * from "./MyAppBar";
 export { MyAvatar } from "./MyAvatar";
 export { MyBox } from "./MyBox";
 export { MyButton } from "./MyButton";
